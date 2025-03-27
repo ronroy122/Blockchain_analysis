@@ -1,0 +1,443 @@
+[
+  {
+    "Row": 2,
+    "Name": "XRP (Ripple)",
+    "Symbol": "Not found",
+    "Blockchain": "Not available",
+    "Address": "Not available",
+    "Price": "Not available",
+    "Reason": "Symbol not found"
+  },
+  {
+    "Row": 3,
+    "Name": "TELOS",
+    "Symbol": "TLOS",
+    "Blockchain": "ethereum",
+    "Address": "0x193f4a4a6ea24102f49b931deeeb931f6e32405d",
+    "Price": "$0.085112"
+  },
+  {
+    "Row": 4,
+    "Name": "NEAR Protocol",
+    "Symbol": "NEAR",
+    "Blockchain": "ethereum",
+    "Address": "0x85f17cf997934a597031b2e18a9ab6ebd4b9f6a4",
+    "Price": "$3.1"
+  },
+  {
+    "Row": 5,
+    "Name": "Canvas CodeFi Gas Token",
+    "Symbol": "Not found",
+    "Blockchain": "Not available",
+    "Address": "Not available",
+    "Price": "Not available",
+    "Reason": "Symbol not found"
+  },
+  {
+    "Row": 6,
+    "Name": "Injective",
+    "Symbol": "INJ",
+    "Blockchain": "ethereum",
+    "Address": "0xe28b3b32b6c345a34ff64674606124dd5aceca30",
+    "Price": "$11.63"
+  },
+  {
+    "Row": 7,
+    "Name": "WEMIX",
+    "Symbol": "WEMIX",
+    "Blockchain": "Not available",
+    "Address": "Not available",
+    "Price": "$0.538962"
+  },
+  {
+    "Row": 8,
+    "Name": "Songbird (Legacy derivation)",
+    "Symbol": "Not found",
+    "Blockchain": "Not available",
+    "Address": "Not available",
+    "Price": "Not available",
+    "Reason": "Symbol not found"
+  },
+  {
+    "Row": 9,
+    "Name": "Immutable zkEVM",
+    "Symbol": "ETH",
+    "Blockchain": "immutable",
+    "Address": "0x52a6c53869ce09a731cd772f245b97a4401d3348",
+    "Price": "$2206.43"
+  },
+  {
+    "Row": 10,
+    "Name": "Songbird",
+    "Symbol": "SGB",
+    "Blockchain": "Not available",
+    "Address": "Not available",
+    "Price": "$0.00503565"
+  },
+  {
+    "Row": 11,
+    "Name": "Mantle",
+    "Symbol": "MNT",
+    "Blockchain": "ethereum",
+    "Address": "0x3c3a81e81dc49a522a592e7622a7e711c06bf354",
+    "Price": "$0.726333"
+  },
+  {
+    "Row": 12,
+    "Name": "Ethereum (Nahmii)",
+    "Symbol": "Not found",
+    "Blockchain": "Not available",
+    "Address": "Not available",
+    "Price": "Not available",
+    "Reason": "Symbol not found"
+  },
+  {
+    "Row": 13,
+    "Name": "Sonic",
+    "Symbol": "S",
+    "Blockchain": "Not available",
+    "Address": "Not available",
+    "Price": "$0.542711"
+  },
+  {
+    "Row": 14,
+    "Name": "Terra Luna 2.0",
+    "Symbol": "Not found",
+    "Blockchain": "Not available",
+    "Address": "Not available",
+    "Price": "Not available",
+    "Reason": "Symbol not found"
+  },
+  {
+    "Row": 15,
+    "Name": "Bitcoin SV",
+    "Symbol": "BSV",
+    "Blockchain": "Not available",
+    "Address": "Not available",
+    "Price": "$35.54"
+  },
+  {
+    "Row": 16,
+    "Name": "ZCash",
+    "Symbol": "ZEC",
+    "Blockchain": "Not available",
+    "Address": "Not available",
+    "Price": "$34.05"
+  },
+  {
+    "Row": 17,
+    "Name": "Solana",
+    "Symbol": "SOL",
+    "Blockchain": "Not available",
+    "Address": "Not available",
+    "Price": "$142.99"
+  },
+  {
+    "Row": 18,
+    "Name": "Terra Classic Korean Won",
+    "Symbol": "Not found",
+    "Blockchain": "Not available",
+    "Address": "Not available",
+    "Price": "Not available",
+    "Reason": "Symbol not found"
+  },
+  {
+    "Row": 25,
+    "Name": "Algorand",
+    "Symbol": "ALGO",
+    "Blockchain": "Not available",
+    "Address": "Not available",
+    "Price": "$0.241614"
+  },
+  {
+    "Row": 26,
+    "Name": "SmartBCH",
+    "Symbol": "Not found",
+    "Blockchain": "Not available",
+    "Address": "Not available",
+    "Price": "Not available",
+    "Reason": "Symbol not found"
+  },
+  {
+    "Row": 27,
+    "Name": "Chiliz ($CHZ)",
+    "Symbol": "Not found",
+    "Blockchain": "Not available",
+    "Address": "Not available",
+    "Price": "Not available",
+    "Reason": "Symbol not found"
+  },
+  {
+    "Row": 28,
+    "Name": "Plume",
+    "Symbol": "PLUME",
+    "Blockchain": "ethereum",
+    "Address": "0x4c1746a800d224393fe2470c70a35717ed4ea5f1",
+    "Price": "$0.14406"
+  },
+  {
+    "Row": 29,
+    "Name": "SBIDM Network",
+    "Symbol": "Not found",
+    "Blockchain": "Not available",
+    "Address": "Not available",
+    "Price": "Not available",
+    "Reason": "Symbol not found"
+  },
+  {
+    "Row": 30,
+    "Name": "XDB",
+    "Symbol": "XDB",
+    "Blockchain": "Not available",
+    "Address": "Not available",
+    "Price": "$0.0003323"
+  },
+  {
+    "Row": 116,
+    "Name": "Polka City",
+    "Symbol": "Not found",
+    "Blockchain": "Not available",
+    "Address": "Not available",
+    "Price": "Not available",
+    "Reason": "Symbol not found"
+  },
+  {
+    "Row": 117,
+    "Name": "Rudem00se",
+    "Symbol": "Not found",
+    "Blockchain": "Not available",
+    "Address": "Not available",
+    "Price": "Not available",
+    "Reason": "Symbol not found"
+  },
+  {
+    "Row": 118,
+    "Name": "SPROUT",
+    "Symbol": "Not found",
+    "Blockchain": "Not available",
+    "Address": "Not available",
+    "Price": "Not available",
+    "Reason": "Symbol not found"
+  },
+  {
+    "Row": 119,
+    "Name": "Bazed Games",
+    "Symbol": "BAZED",
+    "Blockchain": "ethereum",
+    "Address": "0x3ee4b152824b657644c7a9b50694787e80eb8f4a",
+    "Price": "$0.01824212"
+  },
+  {
+    "Row": 120,
+    "Name": "Victoria VR",
+    "Symbol": "VR",
+    "Blockchain": "ethereum",
+    "Address": "0x7d5121505149065b562c789a0145ed750e6e8cdd",
+    "Price": "$0.00688077"
+  },
+  {
+    "Row": 121,
+    "Name": "hiPENGUINS",
+    "Symbol": "Not found",
+    "Blockchain": "Not available",
+    "Address": "Not available",
+    "Price": "Not available",
+    "Reason": "Symbol not found"
+  },
+  {
+    "Row": 122,
+    "Name": "Messier",
+    "Symbol": "M87",
+    "Blockchain": "ethereum",
+    "Address": "0x80122c6a83c8202ea365233363d3f4837d13e888",
+    "Price": "$7.358e-05"
+  },
+  {
+    "Row": 123,
+    "Name": "WePower",
+    "Symbol": "WPR",
+    "Blockchain": "ethereum",
+    "Address": "0x4cf488387f035ff08c371515562cba712f9015d4",
+    "Price": "$0.00022986"
+  },
+  {
+    "Row": 124,
+    "Name": "BabaDoge",
+    "Symbol": "Not found",
+    "Blockchain": "Not available",
+    "Address": "Not available",
+    "Price": "Not available",
+    "Reason": "Symbol not found"
+  },
+  {
+    "Row": 125,
+    "Name": "AIR Token",
+    "Symbol": "Not found",
+    "Blockchain": "Not available",
+    "Address": "Not available",
+    "Price": "Not available",
+    "Reason": "Symbol not found"
+  },
+  {
+    "Row": 126,
+    "Name": "NEST",
+    "Symbol": "NEST",
+    "Blockchain": "ethereum",
+    "Address": "0x09db87a538bd693e9d08544577d5ccfaa6373a48",
+    "Price": "$2219.89"
+  },
+  {
+    "Row": 127,
+    "Name": "Lovely Finance",
+    "Symbol": "Not found",
+    "Blockchain": "Not available",
+    "Address": "Not available",
+    "Price": "Not available",
+    "Reason": "Symbol not found"
+  },
+  {
+    "Row": 128,
+    "Name": "Chainbing",
+    "Symbol": "CBG",
+    "Blockchain": "ethereum",
+    "Address": "0x1900e8b5619a3596745f715d0427fe617c729ba9",
+    "Price": "$0.00637066"
+  },
+  {
+    "Row": 129,
+    "Name": "Amasa Token",
+    "Symbol": "Not found",
+    "Blockchain": "Not available",
+    "Address": "Not available",
+    "Price": "Not available",
+    "Reason": "Symbol not found"
+  },
+  {
+    "Row": 130,
+    "Name": "Covid Gambit",
+    "Symbol": "Not found",
+    "Blockchain": "Not available",
+    "Address": "Not available",
+    "Price": "Not available",
+    "Reason": "Symbol not found"
+  },
+  {
+    "Row": 167,
+    "Name": "SOLCAT",
+    "Symbol": "SOLCAT",
+    "Blockchain": "solana",
+    "Address": "E99fN4tCRb1tQphXK1DU7prXji6hMzxETyPNJro19Fwz",
+    "Price": "$0.00248217"
+  },
+  {
+    "Row": 168,
+    "Name": "Non-Playable Coin (Wormhole)",
+    "Symbol": "Not found",
+    "Blockchain": "Not available",
+    "Address": "Not available",
+    "Price": "Not available",
+    "Reason": "Symbol not found"
+  },
+  {
+    "Row": 169,
+    "Name": "ratomilton",
+    "Symbol": "MILTON",
+    "Blockchain": "solana",
+    "Address": "FFXsbx4rPwM8CyKKZiPU3YS9xFFirww6QEzb6KCCpump",
+    "Price": "$0.00014525"
+  },
+  {
+    "Row": 170,
+    "Name": "TDM",
+    "Symbol": "TDM",
+    "Blockchain": "solana",
+    "Address": "DhuNPyaMF7n8rYs9goo32bcptkoo5bPhWBF67ftLVjsW",
+    "Price": "$0.00469916"
+  },
+  {
+    "Row": 171,
+    "Name": "Solend SOL (Solana)",
+    "Symbol": "Not found",
+    "Blockchain": "Not available",
+    "Address": "Not available",
+    "Price": "Not available",
+    "Reason": "Symbol not found"
+  },
+  {
+    "Row": 172,
+    "Name": "Comedian",
+    "Symbol": "Ban",
+    "Blockchain": "solana",
+    "Address": "9PR7nCP9DpcUotnDPVLUBUZKu5WAYkwrCUx9wDnSpump",
+    "Price": "$0.056531"
+  },
+  {
+    "Row": 173,
+    "Name": "EYE Am Watching You",
+    "Symbol": "EYE",
+    "Blockchain": "solana",
+    "Address": "6MAWnfagDCzqmHQh88FVt9F1zzLqXpwGJpaL7zUTpump",
+    "Price": "$9.792e-05"
+  },
+  {
+    "Row": 174,
+    "Name": "Rafkr_na",
+    "Symbol": "Not found",
+    "Blockchain": "Not available",
+    "Address": "Not available",
+    "Price": "Not available",
+    "Reason": "Symbol not found"
+  },
+  {
+    "Row": 175,
+    "Name": "Kamino ( Solana )",
+    "Symbol": "Not found",
+    "Blockchain": "Not available",
+    "Address": "Not available",
+    "Price": "Not available",
+    "Reason": "Symbol not found"
+  },
+  {
+    "Row": 176,
+    "Name": "FLOOS",
+    "Symbol": "FLS",
+    "Blockchain": "solana",
+    "Address": "75DvRjTDpaEbrdUHVomdjfsiXbBi5FwNyctyUgfLooS",
+    "Price": "$0.00031343"
+  },
+  {
+    "Row": 177,
+    "Name": "REGENT of the North Winds",
+    "Symbol": "Not found",
+    "Blockchain": "Not available",
+    "Address": "Not available",
+    "Price": "Not available",
+    "Reason": "Symbol not found"
+  },
+  {
+    "Row": 178,
+    "Name": "Legends of Aria (Solana)",
+    "Symbol": "Not found",
+    "Blockchain": "Not available",
+    "Address": "Not available",
+    "Price": "Not available",
+    "Reason": "Symbol not found"
+  },
+  {
+    "Row": 179,
+    "Name": "KAOS11",
+    "Symbol": "Not found",
+    "Blockchain": "Not available",
+    "Address": "Not available",
+    "Price": "Not available",
+    "Reason": "Symbol not found"
+  },
+  {
+    "Row": 180,
+    "Name": "Rosa Inu",
+    "Symbol": "ROSA",
+    "Blockchain": "solana",
+    "Address": "6FDJbSkiySbetXaELZYaL9im8mAyCkMfHB7rtDt9p3qp",
+    "Price": "$0.00016802"
+  }
+]

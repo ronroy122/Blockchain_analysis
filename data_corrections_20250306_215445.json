@@ -1,0 +1,3134 @@
+[
+  {
+    "Row": 3,
+    "Field": "Name",
+    "Original": "TELOS",
+    "Corrected": "Telos"
+  },
+  {
+    "Row": 9,
+    "Field": "Name",
+    "Original": "Immutable zkEVM",
+    "Corrected": "Ethereum"
+  },
+  {
+    "Row": 13,
+    "Field": "Name",
+    "Original": "Sonic",
+    "Corrected": "Sonic (prev. FTM)"
+  },
+  {
+    "Row": 16,
+    "Field": "Name",
+    "Original": "ZCash",
+    "Corrected": "Zcash"
+  },
+  {
+    "Row": 30,
+    "Field": "Name",
+    "Original": "XDB",
+    "Corrected": "XDB CHAIN"
+  },
+  {
+    "Row": 32,
+    "Field": "Name",
+    "Original": "VIXCO",
+    "Corrected": "VIX777"
+  },
+  {
+    "Row": 35,
+    "Field": "Name",
+    "Original": "Decent.Bet",
+    "Corrected": "DecentBet"
+  },
+  {
+    "Row": 37,
+    "Field": "Name",
+    "Original": "Float Protocol: FLOAT",
+    "Corrected": "Float Protocol: Float"
+  },
+  {
+    "Row": 40,
+    "Field": "Name",
+    "Original": "col-7 col-lg-8",
+    "Corrected": "Ethereum"
+  },
+  {
+    "Row": 41,
+    "Field": "Name",
+    "Original": "BUMP",
+    "Corrected": "Bumper"
+  },
+  {
+    "Row": 47,
+    "Field": "Name",
+    "Original": "PicaArtMoney",
+    "Corrected": "Picasso"
+  },
+  {
+    "Row": 50,
+    "Field": "Name",
+    "Original": "Nord Token",
+    "Corrected": "Nord Finance"
+  },
+  {
+    "Row": 51,
+    "Field": "Name",
+    "Original": "FUCK PEPE",
+    "Corrected": "Fuck Pepe"
+  },
+  {
+    "Row": 53,
+    "Field": "Name",
+    "Original": "holesky test network",
+    "Corrected": "Ethereum"
+  },
+  {
+    "Row": 55,
+    "Field": "Name",
+    "Original": "Wakanda Inu Token",
+    "Corrected": "Wakanda Inu"
+  },
+  {
+    "Row": 57,
+    "Field": "Name",
+    "Original": "WSB Classic",
+    "Corrected": "WallstreetBets Classic"
+  },
+  {
+    "Row": 58,
+    "Field": "Name",
+    "Original": "OmniaVerse",
+    "Corrected": "OMNIA Protocol"
+  },
+  {
+    "Row": 60,
+    "Field": "Name",
+    "Original": "Carbon",
+    "Corrected": "Carboncoin"
+  },
+  {
+    "Row": 61,
+    "Field": "Name",
+    "Original": "col-7 col-lg-8",
+    "Corrected": "Ethereum"
+  },
+  {
+    "Row": 62,
+    "Field": "Name",
+    "Original": "Koi Auction Token",
+    "Corrected": "Koi Finance"
+  },
+  {
+    "Row": 64,
+    "Field": "Name",
+    "Original": "Idavoll Network",
+    "Corrected": "Idavoll DAO"
+  },
+  {
+    "Row": 65,
+    "Field": "Name",
+    "Original": "Beast",
+    "Corrected": "Wild Beast Block"
+  },
+  {
+    "Row": 66,
+    "Field": "Name",
+    "Original": "Any Inu",
+    "Corrected": "Sleepless AI"
+  },
+  {
+    "Row": 68,
+    "Field": "Name",
+    "Original": "HAVY",
+    "Corrected": "Havy"
+  },
+  {
+    "Row": 70,
+    "Field": "Name",
+    "Original": "M3TA",
+    "Corrected": "Metadium"
+  },
+  {
+    "Row": 71,
+    "Field": "Name",
+    "Original": "PIIN",
+    "Corrected": "piin  (Ordinals)"
+  },
+  {
+    "Row": 75,
+    "Field": "Name",
+    "Original": "Degen",
+    "Corrected": "DegenX"
+  },
+  {
+    "Row": 76,
+    "Field": "Name",
+    "Original": "Bondly",
+    "Corrected": "Forj (Bondly)"
+  },
+  {
+    "Row": 80,
+    "Field": "Name",
+    "Original": "Worldcorecoin",
+    "Corrected": "WinCash"
+  },
+  {
+    "Row": 81,
+    "Field": "Name",
+    "Original": "holesky test network",
+    "Corrected": "Ethereum"
+  },
+  {
+    "Row": 84,
+    "Field": "Name",
+    "Original": "Yumi",
+    "Corrected": "Yumi Marketplace"
+  },
+  {
+    "Row": 88,
+    "Field": "Name",
+    "Original": "Biaocoin",
+    "Corrected": "BIAO"
+  },
+  {
+    "Row": 90,
+    "Field": "Name",
+    "Original": "$0.0017",
+    "Corrected": "Spaceswap MILK2"
+  },
+  {
+    "Row": 91,
+    "Field": "Name",
+    "Original": "Foresting Token",
+    "Corrected": "PTON"
+  },
+  {
+    "Row": 95,
+    "Field": "Name",
+    "Original": "JoJos Adventure",
+    "Corrected": "JOJO"
+  },
+  {
+    "Row": 96,
+    "Field": "Name",
+    "Original": "Eggs",
+    "Corrected": "EGGS"
+  },
+  {
+    "Row": 97,
+    "Field": "Name",
+    "Original": "HEHE",
+    "Corrected": "hehe"
+  },
+  {
+    "Row": 98,
+    "Field": "Name",
+    "Original": "Tate",
+    "Corrected": "Tate Terminal"
+  },
+  {
+    "Row": 99,
+    "Field": "Name",
+    "Original": "MindConnect",
+    "Corrected": "Morpheus Infrastructure Node"
+  },
+  {
+    "Row": 100,
+    "Field": "Name",
+    "Original": "col-7 col-lg-8",
+    "Corrected": "Ethereum"
+  },
+  {
+    "Row": 101,
+    "Field": "Name",
+    "Original": "IZE Fintech Blockchain",
+    "Corrected": "IZE"
+  },
+  {
+    "Row": 104,
+    "Field": "Name",
+    "Original": "APWine Token",
+    "Corrected": "Spectra"
+  },
+  {
+    "Row": 105,
+    "Field": "Name",
+    "Original": "NOAH",
+    "Corrected": "Noahcoin"
+  },
+  {
+    "Row": 106,
+    "Field": "Name",
+    "Original": "col-7 col-lg-8",
+    "Corrected": "Ethereum"
+  },
+  {
+    "Row": 107,
+    "Field": "Name",
+    "Original": "Gamium [via ChainPort.io]",
+    "Corrected": "Gamium"
+  },
+  {
+    "Row": 108,
+    "Field": "Name",
+    "Original": "FusionBot",
+    "Corrected": "Fusion AI"
+  },
+  {
+    "Row": 109,
+    "Field": "Name",
+    "Original": "Utrust Token",
+    "Corrected": "xMoney"
+  },
+  {
+    "Row": 111,
+    "Field": "Name",
+    "Original": "PEPEAI",
+    "Corrected": "PepeAI"
+  },
+  {
+    "Row": 112,
+    "Field": "Name",
+    "Original": "DokiDokiFinance",
+    "Corrected": "Doki Doki Finance"
+  },
+  {
+    "Row": 113,
+    "Field": "Name",
+    "Original": "col-7 col-lg-8",
+    "Corrected": "Ethereum"
+  },
+  {
+    "Row": 116,
+    "Field": "Name",
+    "Original": "Polka City",
+    "Corrected": "Polkacity"
+  },
+  {
+    "Row": 117,
+    "Field": "Name",
+    "Original": "Rudem00se",
+    "Corrected": "Moon Moose"
+  },
+  {
+    "Row": 118,
+    "Field": "Name",
+    "Original": "SPROUT",
+    "Corrected": "The Plant Dao"
+  },
+  {
+    "Row": 122,
+    "Field": "Name",
+    "Original": "Messier",
+    "Corrected": "MESSIER"
+  },
+  {
+    "Row": 124,
+    "Field": "Name",
+    "Original": "BabaDoge",
+    "Corrected": "Babadoge"
+  },
+  {
+    "Row": 125,
+    "Field": "Name",
+    "Original": "AIR Token",
+    "Corrected": "AIRian"
+  },
+  {
+    "Row": 126,
+    "Field": "Name",
+    "Original": "NEST",
+    "Corrected": "NEST Protocol"
+  },
+  {
+    "Row": 127,
+    "Field": "Name",
+    "Original": "Lovely Finance",
+    "Corrected": "Lovely Finance [New]"
+  },
+  {
+    "Row": 129,
+    "Field": "Name",
+    "Original": "Amasa Token",
+    "Corrected": "Amasa"
+  },
+  {
+    "Row": 167,
+    "Field": "Name",
+    "Original": "SOLCAT",
+    "Corrected": "CatSolHat"
+  },
+  {
+    "Row": 168,
+    "Field": "Name",
+    "Original": "Non-Playable Coin (Wormhole)",
+    "Corrected": "Non-Playable Coin"
+  },
+  {
+    "Row": 173,
+    "Field": "Name",
+    "Original": "EYE Am Watching You",
+    "Corrected": "Behodler"
+  },
+  {
+    "Row": 175,
+    "Field": "Name",
+    "Original": "Kamino ( Solana )",
+    "Corrected": "Kamino Finance"
+  },
+  {
+    "Row": 177,
+    "Field": "Name",
+    "Original": "REGENT of the North Winds",
+    "Corrected": "REGENT COIN"
+  },
+  {
+    "Row": 178,
+    "Field": "Name",
+    "Original": "Legends of Aria (Solana)",
+    "Corrected": "Ariacoin"
+  },
+  {
+    "Row": 191,
+    "Field": "Name",
+    "Original": "Obsidium",
+    "Corrected": "One Basis"
+  },
+  {
+    "Row": 192,
+    "Field": "Name",
+    "Original": "Lucrosus Capital Coin",
+    "Corrected": "LUCA"
+  },
+  {
+    "Row": 193,
+    "Field": "Name",
+    "Original": "MVP COIN",
+    "Corrected": "MAGA VP"
+  },
+  {
+    "Row": 196,
+    "Field": "Name",
+    "Original": "Tenup DAO Token",
+    "Corrected": "TenUp"
+  },
+  {
+    "Row": 197,
+    "Field": "Name",
+    "Original": "DOGEAI",
+    "Corrected": "DOGEai"
+  },
+  {
+    "Row": 198,
+    "Field": "Name",
+    "Original": "DYT TOKEN",
+    "Corrected": "DoYourTip"
+  },
+  {
+    "Row": 199,
+    "Field": "Name",
+    "Original": "STAIKA",
+    "Corrected": "Staika"
+  },
+  {
+    "Row": 200,
+    "Field": "Name",
+    "Original": "WEB3TOOLS ECOSYSTEM",
+    "Corrected": "Web3Tools"
+  },
+  {
+    "Row": 201,
+    "Field": "Name",
+    "Original": "PIZZA CHAIN",
+    "Corrected": "Pizza (Ordinals)"
+  },
+  {
+    "Row": 206,
+    "Field": "Name",
+    "Original": "BioNTech Tokenized",
+    "Corrected": "Bintex Futures"
+  },
+  {
+    "Row": 207,
+    "Field": "Name",
+    "Original": "Domon",
+    "Corrected": "Dollar on Chain"
+  },
+  {
+    "Row": 208,
+    "Field": "Name",
+    "Original": "DefiHorse",
+    "Corrected": "DeFiHorse"
+  },
+  {
+    "Row": 209,
+    "Field": "Name",
+    "Original": "MyChatAI.io",
+    "Corrected": "MyChatAI"
+  },
+  {
+    "Row": 212,
+    "Field": "Name",
+    "Original": "DigiSignChain",
+    "Corrected": "DSC"
+  },
+  {
+    "Row": 214,
+    "Field": "Name",
+    "Original": "Space Genesis",
+    "Corrected": "Space Crypto"
+  },
+  {
+    "Row": 217,
+    "Field": "Name",
+    "Original": "Virgo Token",
+    "Corrected": "Virgo"
+  },
+  {
+    "Row": 220,
+    "Field": "Name",
+    "Original": "Paysenger EGO",
+    "Corrected": "EGO"
+  },
+  {
+    "Row": 222,
+    "Field": "Name",
+    "Original": "bnb smart chain mainnet",
+    "Corrected": "BNB"
+  },
+  {
+    "Row": 223,
+    "Field": "Name",
+    "Original": "WIFHAT",
+    "Corrected": "catwifhat"
+  },
+  {
+    "Row": 224,
+    "Field": "Name",
+    "Original": "Binance-Peg Smooth Love Potion",
+    "Corrected": "Smooth Love Potion"
+  },
+  {
+    "Row": 228,
+    "Field": "Name",
+    "Original": "ALPINE Fan Token",
+    "Corrected": "Alpine F1 Team Fan Token"
+  },
+  {
+    "Row": 229,
+    "Field": "Name",
+    "Original": "Landshare Token",
+    "Corrected": "Landshare"
+  },
+  {
+    "Row": 235,
+    "Field": "Name",
+    "Original": "MALGO",
+    "Corrected": "Malgo Finance"
+  },
+  {
+    "Row": 236,
+    "Field": "Name",
+    "Original": "Camel protocol",
+    "Corrected": "Simon's Cat"
+  },
+  {
+    "Row": 239,
+    "Field": "Name",
+    "Original": "EDE",
+    "Corrected": "El Dorado Exchange"
+  },
+  {
+    "Row": 240,
+    "Field": "Name",
+    "Original": "LFG Token",
+    "Corrected": "Gamerse"
+  },
+  {
+    "Row": 242,
+    "Field": "Name",
+    "Original": "Milk",
+    "Corrected": "MuesliSwap MILK"
+  },
+  {
+    "Row": 243,
+    "Field": "Name",
+    "Original": "HARD",
+    "Corrected": "Kava Lend"
+  },
+  {
+    "Row": 244,
+    "Field": "Name",
+    "Original": "EtherPoS",
+    "Corrected": "EtherPOS"
+  },
+  {
+    "Row": 245,
+    "Field": "Name",
+    "Original": "DFM",
+    "Corrected": "DAO Farmer DFM"
+  },
+  {
+    "Row": 246,
+    "Field": "Name",
+    "Original": "GROK 2.0",
+    "Corrected": "GROK 2"
+  },
+  {
+    "Row": 247,
+    "Field": "Name",
+    "Original": "Iotec",
+    "Corrected": "Helium IOT"
+  },
+  {
+    "Row": 248,
+    "Field": "Name",
+    "Original": "Angels Creed",
+    "Corrected": "Polylauncher"
+  },
+  {
+    "Row": 249,
+    "Field": "Name",
+    "Original": "Metamic E-Sports Games",
+    "Corrected": "Megastarz"
+  },
+  {
+    "Row": 251,
+    "Field": "Name",
+    "Original": "Hot Cross Token",
+    "Corrected": "Hot Cross"
+  },
+  {
+    "Row": 253,
+    "Field": "Name",
+    "Original": "BB Gaming",
+    "Corrected": "BounceBit"
+  },
+  {
+    "Row": 255,
+    "Field": "Name",
+    "Original": "Plant vs Undead Token",
+    "Corrected": "Plant Vs Undead"
+  },
+  {
+    "Row": 256,
+    "Field": "Name",
+    "Original": "BelecX Token",
+    "Corrected": "BelecX Protocol"
+  },
+  {
+    "Row": 257,
+    "Field": "Name",
+    "Original": "B-LAUNCH",
+    "Corrected": "BSClaunch"
+  },
+  {
+    "Row": 259,
+    "Field": "Name",
+    "Original": "AncientWorldToken",
+    "Corrected": "TARS AI"
+  },
+  {
+    "Row": 260,
+    "Field": "Name",
+    "Original": "RadioShack Token",
+    "Corrected": "RadioShack"
+  },
+  {
+    "Row": 262,
+    "Field": "Name",
+    "Original": "Cellframe Token",
+    "Corrected": "Cellframe"
+  },
+  {
+    "Row": 264,
+    "Field": "Name",
+    "Original": "bomb.money",
+    "Corrected": "Lollybomb Meme Coin"
+  },
+  {
+    "Row": 265,
+    "Field": "Name",
+    "Original": "New Guinea Singing Dog Inu",
+    "Corrected": "Newinu"
+  },
+  {
+    "Row": 266,
+    "Field": "Name",
+    "Original": "Sappchat",
+    "Corrected": "Secretum"
+  },
+  {
+    "Row": 267,
+    "Field": "Name",
+    "Original": "ACEToken",
+    "Corrected": "Fusionist"
+  },
+  {
+    "Row": 269,
+    "Field": "Name",
+    "Original": "Husky",
+    "Corrected": "Husky Avax"
+  },
+  {
+    "Row": 271,
+    "Field": "Name",
+    "Original": "Ecoin Finance",
+    "Corrected": "Ecoin official"
+  },
+  {
+    "Row": 274,
+    "Field": "Name",
+    "Original": "col-7 col-lg-8",
+    "Corrected": "BNB"
+  },
+  {
+    "Row": 276,
+    "Field": "Name",
+    "Original": "bnb smart chain mainnet",
+    "Corrected": "BNB"
+  },
+  {
+    "Row": 278,
+    "Field": "Name",
+    "Original": "TapTap",
+    "Corrected": "TatianaCoin"
+  },
+  {
+    "Row": 279,
+    "Field": "Name",
+    "Original": "Safegem.finance",
+    "Corrected": "Gems"
+  },
+  {
+    "Row": 280,
+    "Field": "Name",
+    "Original": "Metegg DeFi",
+    "Corrected": "Metaegg DeFi"
+  },
+  {
+    "Row": 281,
+    "Field": "Name",
+    "Original": "DARC Token",
+    "Corrected": "Konstellation Network"
+  },
+  {
+    "Row": 282,
+    "Field": "Name",
+    "Original": "Bull Flag",
+    "Corrected": "Bitflate"
+  },
+  {
+    "Row": 283,
+    "Field": "Name",
+    "Original": "KAWAII",
+    "Corrected": "Kawai INU"
+  },
+  {
+    "Row": 284,
+    "Field": "Name",
+    "Original": "OMNI Real Estate Token",
+    "Corrected": "Okratech Token"
+  },
+  {
+    "Row": 286,
+    "Field": "Name",
+    "Original": "Soiler Token",
+    "Corrected": "SolarCoin"
+  },
+  {
+    "Row": 288,
+    "Field": "Name",
+    "Original": "Community Vote Power",
+    "Corrected": "PowerPool"
+  },
+  {
+    "Row": 289,
+    "Field": "Name",
+    "Original": "Pepsico Tokenized",
+    "Corrected": "Pepecoin"
+  },
+  {
+    "Row": 290,
+    "Field": "Name",
+    "Original": "XMAS",
+    "Corrected": "MerryXRPmas"
+  },
+  {
+    "Row": 291,
+    "Field": "Name",
+    "Original": "GenesisUniverseToken",
+    "Corrected": "GuitarSwap"
+  },
+  {
+    "Row": 292,
+    "Field": "Name",
+    "Original": "CoinClaim",
+    "Corrected": "Claymore"
+  },
+  {
+    "Row": 294,
+    "Field": "Name",
+    "Original": "bnb smart chain mainnet",
+    "Corrected": "BNB"
+  },
+  {
+    "Row": 295,
+    "Field": "Name",
+    "Original": "Perry The BNB V2",
+    "Corrected": "Perry"
+  },
+  {
+    "Row": 297,
+    "Field": "Name",
+    "Original": "BBS [via ChainPort.io]",
+    "Corrected": "BBS Network"
+  },
+  {
+    "Row": 298,
+    "Field": "Name",
+    "Original": "ZAMZAM Token",
+    "Corrected": "Zamzam Token"
+  },
+  {
+    "Row": 300,
+    "Field": "Name",
+    "Original": "OliveCash Token",
+    "Corrected": "Olive Cash"
+  },
+  {
+    "Row": 301,
+    "Field": "Name",
+    "Original": "SGO",
+    "Corrected": "Sportemon-Go"
+  },
+  {
+    "Row": 302,
+    "Field": "Name",
+    "Original": "TokoQRT",
+    "Corrected": "TokoQrt"
+  },
+  {
+    "Row": 304,
+    "Field": "Name",
+    "Original": "BabyPepe",
+    "Corrected": "Baby Pepe"
+  },
+  {
+    "Row": 305,
+    "Field": "Name",
+    "Original": "Valas Finance Protocol Token",
+    "Corrected": "Valas Finance"
+  },
+  {
+    "Row": 306,
+    "Field": "Name",
+    "Original": "MARS",
+    "Corrected": "Mars"
+  },
+  {
+    "Row": 307,
+    "Field": "Name",
+    "Original": "LP Token",
+    "Corrected": "Livepeer"
+  },
+  {
+    "Row": 308,
+    "Field": "Name",
+    "Original": "Smurfs INU",
+    "Corrected": "Real Smurf Cat - шайлушай"
+  },
+  {
+    "Row": 313,
+    "Field": "Name",
+    "Original": "COGI Coin",
+    "Corrected": "COGI"
+  },
+  {
+    "Row": 314,
+    "Field": "Name",
+    "Original": "Rick and Morty",
+    "Corrected": "Rick And Morty"
+  },
+  {
+    "Row": 316,
+    "Field": "Name",
+    "Original": "KISHKA",
+    "Corrected": "Kishka"
+  },
+  {
+    "Row": 317,
+    "Field": "Name",
+    "Original": "Ocean Finance",
+    "Corrected": "OFCOIN"
+  },
+  {
+    "Row": 318,
+    "Field": "Name",
+    "Original": "NEST",
+    "Corrected": "NEST Protocol"
+  },
+  {
+    "Row": 319,
+    "Field": "Name",
+    "Original": "CareCoin V2",
+    "Corrected": "Project CareCoin"
+  },
+  {
+    "Row": 320,
+    "Field": "Name",
+    "Original": "POW",
+    "Corrected": "POWCOIN"
+  },
+  {
+    "Row": 321,
+    "Field": "Name",
+    "Original": "Wombat Token",
+    "Corrected": "WOM Protocol"
+  },
+  {
+    "Row": 322,
+    "Field": "Name",
+    "Original": "Meta Gaming",
+    "Corrected": "META Gaming"
+  },
+  {
+    "Row": 323,
+    "Field": "Name",
+    "Original": "COLLIE INU",
+    "Corrected": "Collie Inu"
+  },
+  {
+    "Row": 324,
+    "Field": "Name",
+    "Original": "Parallel Token",
+    "Corrected": "The Parallel"
+  },
+  {
+    "Row": 328,
+    "Field": "Name",
+    "Original": "XWG",
+    "Corrected": "X World Games"
+  },
+  {
+    "Row": 330,
+    "Field": "Name",
+    "Original": "Eneftiverse",
+    "Corrected": "Evernode"
+  },
+  {
+    "Row": 331,
+    "Field": "Name",
+    "Original": "Trump Inu",
+    "Corrected": "TRUMP INU"
+  },
+  {
+    "Row": 332,
+    "Field": "Name",
+    "Original": "VR NEXUS",
+    "Corrected": "Veros"
+  },
+  {
+    "Row": 333,
+    "Field": "Name",
+    "Original": "Galaxy",
+    "Corrected": "GETART"
+  },
+  {
+    "Row": 334,
+    "Field": "Name",
+    "Original": "Binance-Peg BitTorrent Token",
+    "Corrected": "BitTorrent [New]"
+  },
+  {
+    "Row": 336,
+    "Field": "Name",
+    "Original": "SHRAPToken",
+    "Corrected": "Shrapnel"
+  },
+  {
+    "Row": 337,
+    "Field": "Name",
+    "Original": "POP Network Token",
+    "Corrected": "Popcoin"
+  },
+  {
+    "Row": 338,
+    "Field": "Name",
+    "Original": "Qubit Token",
+    "Corrected": "Qbao"
+  },
+  {
+    "Row": 339,
+    "Field": "Name",
+    "Original": "Pika Protocol",
+    "Corrected": "Pikaboss"
+  },
+  {
+    "Row": 342,
+    "Field": "Name",
+    "Original": "Climate101",
+    "Corrected": "Climate 101"
+  },
+  {
+    "Row": 344,
+    "Field": "Name",
+    "Original": "ZAYA",
+    "Corrected": "ZAIBOT"
+  },
+  {
+    "Row": 345,
+    "Field": "Name",
+    "Original": "MAR3 TOKEN",
+    "Corrected": "Mar3 AI"
+  },
+  {
+    "Row": 353,
+    "Field": "Name",
+    "Original": "Four Token",
+    "Corrected": "4P FOUR"
+  },
+  {
+    "Row": 354,
+    "Field": "Name",
+    "Original": "Darik Coin",
+    "Corrected": "Darik"
+  },
+  {
+    "Row": 355,
+    "Field": "Name",
+    "Original": "Vetter Skylabs Token",
+    "Corrected": "Vietnam Smarthub Logistics"
+  },
+  {
+    "Row": 356,
+    "Field": "Name",
+    "Original": "BSC FAIR",
+    "Corrected": "FairCoin"
+  },
+  {
+    "Row": 358,
+    "Field": "Name",
+    "Original": "$0.0015",
+    "Corrected": "PathFund"
+  },
+  {
+    "Row": 360,
+    "Field": "Name",
+    "Original": "Octafarm.fi",
+    "Corrected": "Octafarm"
+  },
+  {
+    "Row": 361,
+    "Field": "Name",
+    "Original": "Masterpiece Maker",
+    "Corrected": "MAMA DAO"
+  },
+  {
+    "Row": 362,
+    "Field": "Name",
+    "Original": "JETCOIN",
+    "Corrected": "Satoshi Airline"
+  },
+  {
+    "Row": 364,
+    "Field": "Name",
+    "Original": "ULTI Coin",
+    "Corrected": "Ultiverse"
+  },
+  {
+    "Row": 366,
+    "Field": "Name",
+    "Original": "Vagabond",
+    "Corrected": "Virgo"
+  },
+  {
+    "Row": 367,
+    "Field": "Name",
+    "Original": "Flokiter",
+    "Corrected": "Freysa"
+  },
+  {
+    "Row": 371,
+    "Field": "Name",
+    "Original": "COR Token",
+    "Corrected": "Coreto"
+  },
+  {
+    "Row": 372,
+    "Field": "Name",
+    "Original": "Highstreet Token",
+    "Corrected": "Highstreet"
+  },
+  {
+    "Row": 373,
+    "Field": "Name",
+    "Original": "Smart Advertising Transaction Token",
+    "Corrected": "SaTT"
+  },
+  {
+    "Row": 374,
+    "Field": "Name",
+    "Original": "CARBON",
+    "Corrected": "Creditbit"
+  },
+  {
+    "Row": 375,
+    "Field": "Name",
+    "Original": "Libra Protocol",
+    "Corrected": "Lybra Finance"
+  },
+  {
+    "Row": 377,
+    "Field": "Name",
+    "Original": "bnb smart chain mainnet",
+    "Corrected": "BNB"
+  },
+  {
+    "Row": 379,
+    "Field": "Name",
+    "Original": "MetaFootball",
+    "Corrected": "Milktea.finance"
+  },
+  {
+    "Row": 380,
+    "Field": "Name",
+    "Original": "Vapor Token",
+    "Corrected": "VaporFund"
+  },
+  {
+    "Row": 381,
+    "Field": "Name",
+    "Original": "SPINADA",
+    "Corrected": "Spintop"
+  },
+  {
+    "Row": 383,
+    "Field": "Name",
+    "Original": "Mythic Ore",
+    "Corrected": "More Token"
+  },
+  {
+    "Row": 384,
+    "Field": "Name",
+    "Original": "RichMEME",
+    "Corrected": "RichMeme"
+  },
+  {
+    "Row": 386,
+    "Field": "Name",
+    "Original": "PIPI Coin",
+    "Corrected": "Pi"
+  },
+  {
+    "Row": 387,
+    "Field": "Name",
+    "Original": "Sheikh Inu",
+    "Corrected": "SHINU"
+  },
+  {
+    "Row": 389,
+    "Field": "Name",
+    "Original": "Cryptorg",
+    "Corrected": "City Tycoon Games"
+  },
+  {
+    "Row": 390,
+    "Field": "Name",
+    "Original": "Cherish Credit",
+    "Corrected": "ChainCoin"
+  },
+  {
+    "Row": 393,
+    "Field": "Name",
+    "Original": "bnb smart chain mainnet",
+    "Corrected": "BNB"
+  },
+  {
+    "Row": 394,
+    "Field": "Name",
+    "Original": "Walt Disney Tokenized Stock",
+    "Corrected": "DisChain"
+  },
+  {
+    "Row": 396,
+    "Field": "Name",
+    "Original": "Capshort Token",
+    "Corrected": "Ternoa"
+  },
+  {
+    "Row": 398,
+    "Field": "Name",
+    "Original": "TrustKey",
+    "Corrected": "Truckcoin"
+  },
+  {
+    "Row": 399,
+    "Field": "Name",
+    "Original": "KuCoin LaunchPad",
+    "Corrected": "Kross Chain LaunchPad"
+  },
+  {
+    "Row": 400,
+    "Field": "Name",
+    "Original": "Ramifi Token",
+    "Corrected": "Ramifi Protocol"
+  },
+  {
+    "Row": 401,
+    "Field": "Name",
+    "Original": "WingStep Token",
+    "Corrected": "Wisteria Swap"
+  },
+  {
+    "Row": 402,
+    "Field": "Name",
+    "Original": "Kalycoin",
+    "Corrected": "KalyChain"
+  },
+  {
+    "Row": 403,
+    "Field": "Name",
+    "Original": "cubigator",
+    "Corrected": "Cub Finance"
+  },
+  {
+    "Row": 409,
+    "Field": "Name",
+    "Original": "SOLMEME COIN",
+    "Corrected": "TrumpFFIEGMEBidenCAT2024AMC"
+  },
+  {
+    "Row": 410,
+    "Field": "Name",
+    "Original": "Propel Token",
+    "Corrected": "Propel"
+  },
+  {
+    "Row": 413,
+    "Field": "Name",
+    "Original": "CougarSwap Token",
+    "Corrected": "Cougar"
+  },
+  {
+    "Row": 417,
+    "Field": "Name",
+    "Original": "SafePanda",
+    "Corrected": "Spendcoin"
+  },
+  {
+    "Row": 421,
+    "Field": "Name",
+    "Original": "MetaDancingCrew",
+    "Corrected": "Madcoin"
+  },
+  {
+    "Row": 423,
+    "Field": "Name",
+    "Original": "MindMatrix",
+    "Corrected": "Aimedis (new)"
+  },
+  {
+    "Row": 424,
+    "Field": "Name",
+    "Original": "Billionaire Plus Token",
+    "Corrected": "Billionaire Plus"
+  },
+  {
+    "Row": 427,
+    "Field": "Name",
+    "Original": "ADADAO",
+    "Corrected": "Adadao"
+  },
+  {
+    "Row": 428,
+    "Field": "Name",
+    "Original": "CAPVERSE",
+    "Corrected": "Capverse"
+  },
+  {
+    "Row": 432,
+    "Field": "Name",
+    "Original": "QRKITA TOKEN",
+    "Corrected": "Qrkita Token"
+  },
+  {
+    "Row": 434,
+    "Field": "Name",
+    "Original": "PlusToken",
+    "Corrected": "PLUSPAD"
+  },
+  {
+    "Row": 441,
+    "Field": "Name",
+    "Original": "Sinso Token",
+    "Corrected": "SINSO"
+  },
+  {
+    "Row": 444,
+    "Field": "Name",
+    "Original": "MobiPad",
+    "Corrected": "MBP Coin"
+  },
+  {
+    "Row": 446,
+    "Field": "Name",
+    "Original": "MEMETOON",
+    "Corrected": "Memecoin"
+  },
+  {
+    "Row": 447,
+    "Field": "Name",
+    "Original": "Baby Doge Inu",
+    "Corrected": "BABY DOGE INU"
+  },
+  {
+    "Row": 452,
+    "Field": "Name",
+    "Original": "$7,904.45",
+    "Corrected": "Thoreum V3"
+  },
+  {
+    "Row": 453,
+    "Field": "Name",
+    "Original": "TrollMuskWifHat",
+    "Corrected": "Troll"
+  },
+  {
+    "Row": 457,
+    "Field": "Name",
+    "Original": "Sensitrust Token",
+    "Corrected": "Sensitrust"
+  },
+  {
+    "Row": 459,
+    "Field": "Name",
+    "Original": "Wild Island Game",
+    "Corrected": "Wilder World"
+  },
+  {
+    "Row": 461,
+    "Field": "Name",
+    "Original": "MetaPlanet",
+    "Corrected": "Maple"
+  },
+  {
+    "Row": 462,
+    "Field": "Name",
+    "Original": "Gud Token",
+    "Corrected": "Gud Tech"
+  },
+  {
+    "Row": 463,
+    "Field": "Name",
+    "Original": "Genie",
+    "Corrected": "Genie Protocol"
+  },
+  {
+    "Row": 464,
+    "Field": "Name",
+    "Original": "Binance-Peg Polkadot Token",
+    "Corrected": "Polkadot"
+  },
+  {
+    "Row": 466,
+    "Field": "Name",
+    "Original": "Monopoly Millionaire Control",
+    "Corrected": "MoveMoveCoin"
+  },
+  {
+    "Row": 468,
+    "Field": "Name",
+    "Original": "Enigma Gaming",
+    "Corrected": "Endless Board Game"
+  },
+  {
+    "Row": 470,
+    "Field": "Name",
+    "Original": "PokeDX",
+    "Corrected": "PDX Coin"
+  },
+  {
+    "Row": 472,
+    "Field": "Name",
+    "Original": "R3 Token",
+    "Corrected": "Real Estate Token"
+  },
+  {
+    "Row": 475,
+    "Field": "Name",
+    "Original": "INJECTIVE",
+    "Corrected": "Injective"
+  },
+  {
+    "Row": 476,
+    "Field": "Name",
+    "Original": "CatBoy",
+    "Corrected": "Catboy"
+  },
+  {
+    "Row": 477,
+    "Field": "Name",
+    "Original": "JiangNanYi",
+    "Corrected": "JNY"
+  },
+  {
+    "Row": 478,
+    "Field": "Name",
+    "Original": "HOLA CITY",
+    "Corrected": "Hola City"
+  },
+  {
+    "Row": 480,
+    "Field": "Name",
+    "Original": "Artrade Token",
+    "Corrected": "Artrade"
+  },
+  {
+    "Row": 482,
+    "Field": "Name",
+    "Original": "Binance-Peg Ethereum Classic",
+    "Corrected": "Ethereum Classic"
+  },
+  {
+    "Row": 484,
+    "Field": "Name",
+    "Original": "MONK",
+    "Corrected": "monkeyhaircut"
+  },
+  {
+    "Row": 486,
+    "Field": "Name",
+    "Original": "Defi Monster Legends",
+    "Corrected": "Demole"
+  },
+  {
+    "Row": 488,
+    "Field": "Name",
+    "Original": "SPODMOON",
+    "Corrected": "Spod Moon"
+  },
+  {
+    "Row": 489,
+    "Field": "Name",
+    "Original": "beFITTER Token",
+    "Corrected": "beFITTER"
+  },
+  {
+    "Row": 490,
+    "Field": "Name",
+    "Original": "Mint.club",
+    "Corrected": "Mint Club"
+  },
+  {
+    "Row": 492,
+    "Field": "Name",
+    "Original": "Solidex",
+    "Corrected": "Stake DAO"
+  },
+  {
+    "Row": 495,
+    "Field": "Name",
+    "Original": "Saakuru",
+    "Corrected": "Saakuru Protocol"
+  },
+  {
+    "Row": 497,
+    "Field": "Name",
+    "Original": "Kiwi Token",
+    "Corrected": "KIWI TOKEN"
+  },
+  {
+    "Row": 498,
+    "Field": "Name",
+    "Original": "HUBOT",
+    "Corrected": "Hebeto"
+  },
+  {
+    "Row": 501,
+    "Field": "Name",
+    "Original": "MegaBitcoin",
+    "Corrected": "Miners.Club"
+  },
+  {
+    "Row": 503,
+    "Field": "Name",
+    "Original": "col-7 col-lg-8",
+    "Corrected": "BNB"
+  },
+  {
+    "Row": 505,
+    "Field": "Name",
+    "Original": "Micro Strategy Tokenized",
+    "Corrected": "MSTR2100"
+  },
+  {
+    "Row": 506,
+    "Field": "Name",
+    "Original": "LegioDAO",
+    "Corrected": "LegendaryCoin"
+  },
+  {
+    "Row": 507,
+    "Field": "Name",
+    "Original": "BlackEyeGalaxy Token",
+    "Corrected": "Black Eye Galaxy"
+  },
+  {
+    "Row": 508,
+    "Field": "Name",
+    "Original": "DART Inu",
+    "Corrected": "DarexTravel"
+  },
+  {
+    "Row": 512,
+    "Field": "Name",
+    "Original": "TGDAO",
+    "Corrected": "Launchpad TG DAO 3.0"
+  },
+  {
+    "Row": 515,
+    "Field": "Name",
+    "Original": "Zi Network",
+    "Corrected": "Zenswap Network Token"
+  },
+  {
+    "Row": 520,
+    "Field": "Name",
+    "Original": "Mewtwo Inu",
+    "Corrected": "Minu"
+  },
+  {
+    "Row": 522,
+    "Field": "Name",
+    "Original": "GalaxyFinance",
+    "Corrected": "Galaxy Finance"
+  },
+  {
+    "Row": 523,
+    "Field": "Name",
+    "Original": "AINU TOKEN",
+    "Corrected": "Ainu Token"
+  },
+  {
+    "Row": 527,
+    "Field": "Name",
+    "Original": "Blitz Token",
+    "Corrected": "Blitzcash"
+  },
+  {
+    "Row": 528,
+    "Field": "Name",
+    "Original": "Hector",
+    "Corrected": "Heroes Chained"
+  },
+  {
+    "Row": 529,
+    "Field": "Name",
+    "Original": "MultiChainCapital",
+    "Corrected": "Meshchain Ai"
+  },
+  {
+    "Row": 530,
+    "Field": "Name",
+    "Original": "WFI",
+    "Corrected": "WeFi"
+  },
+  {
+    "Row": 533,
+    "Field": "Name",
+    "Original": "MUSKITO",
+    "Corrected": "Muskito"
+  },
+  {
+    "Row": 534,
+    "Field": "Name",
+    "Original": "Binance-Peg IDEX Token",
+    "Corrected": "IDEX"
+  },
+  {
+    "Row": 536,
+    "Field": "Name",
+    "Original": "Mr Mint",
+    "Corrected": "Mantle"
+  },
+  {
+    "Row": 537,
+    "Field": "Name",
+    "Original": "MetaWar",
+    "Corrected": "MetaWars"
+  },
+  {
+    "Row": 540,
+    "Field": "Name",
+    "Original": "Moonft Coin",
+    "Corrected": "Moonft"
+  },
+  {
+    "Row": 543,
+    "Field": "Name",
+    "Original": "BABY SHARK INU",
+    "Corrected": "Sharky Sharkx"
+  },
+  {
+    "Row": 544,
+    "Field": "Name",
+    "Original": "Onschain",
+    "Corrected": "One Share"
+  },
+  {
+    "Row": 548,
+    "Field": "Name",
+    "Original": "Goal Champion",
+    "Corrected": "gold coin"
+  },
+  {
+    "Row": 552,
+    "Field": "Name",
+    "Original": "OpenLive NFT",
+    "Corrected": "OMarket Global LLC"
+  },
+  {
+    "Row": 553,
+    "Field": "Name",
+    "Original": "WEB3 Inu",
+    "Corrected": "Web3 TON Token"
+  },
+  {
+    "Row": 554,
+    "Field": "Name",
+    "Original": "Game Coin [via ChainPort.io]",
+    "Corrected": "GameBuild"
+  },
+  {
+    "Row": 557,
+    "Field": "Name",
+    "Original": "SOLANA",
+    "Corrected": "Solana"
+  },
+  {
+    "Row": 558,
+    "Field": "Name",
+    "Original": "OBORTECH",
+    "Corrected": "OBOT"
+  },
+  {
+    "Row": 562,
+    "Field": "Name",
+    "Original": "JAILKWON",
+    "Corrected": "JAIL KWON TOKEN"
+  },
+  {
+    "Row": 565,
+    "Field": "Name",
+    "Original": "StandardBTCHashrateToken",
+    "Corrected": "Bitcoin Standard Hashrate Token"
+  },
+  {
+    "Row": 570,
+    "Field": "Name",
+    "Original": "Waifer",
+    "Corrected": "Waifu Token"
+  },
+  {
+    "Row": 573,
+    "Field": "Name",
+    "Original": "Day of Defeat 2.0",
+    "Corrected": "Day Of Defeat 2.0"
+  },
+  {
+    "Row": 575,
+    "Field": "Name",
+    "Original": "GPT Guru Token.",
+    "Corrected": "GPT Guru"
+  },
+  {
+    "Row": 576,
+    "Field": "Name",
+    "Original": "Hunter Crypto Coin",
+    "Corrected": "Happy Creator Coin"
+  },
+  {
+    "Row": 578,
+    "Field": "Name",
+    "Original": "Hayya",
+    "Corrected": "Hayya Qatar"
+  },
+  {
+    "Row": 579,
+    "Field": "Name",
+    "Original": "NEST",
+    "Corrected": "NEST Protocol"
+  },
+  {
+    "Row": 580,
+    "Field": "Name",
+    "Original": "Lupin",
+    "Corrected": "LUPIN"
+  },
+  {
+    "Row": 586,
+    "Field": "Name",
+    "Original": "Evolve Chain",
+    "Corrected": "EventChain"
+  },
+  {
+    "Row": 587,
+    "Field": "Name",
+    "Original": "SPACE DOGE",
+    "Corrected": "Dogecoin"
+  },
+  {
+    "Row": 588,
+    "Field": "Name",
+    "Original": "ZigCoin",
+    "Corrected": "ZIGChain"
+  },
+  {
+    "Row": 589,
+    "Field": "Name",
+    "Original": "Zenccoin",
+    "Corrected": "Zenc Coin"
+  },
+  {
+    "Row": 591,
+    "Field": "Name",
+    "Original": "Green_Meta_v2",
+    "Corrected": "Green Metaverse"
+  },
+  {
+    "Row": 593,
+    "Field": "Name",
+    "Original": "Magic Fox",
+    "Corrected": "Shapeshift FOX Token"
+  },
+  {
+    "Row": 595,
+    "Field": "Name",
+    "Original": "PEOPLEZ",
+    "Corrected": "Peoplez"
+  },
+  {
+    "Row": 596,
+    "Field": "Name",
+    "Original": "MAG Token",
+    "Corrected": "Monsterra (MAG)"
+  },
+  {
+    "Row": 597,
+    "Field": "Name",
+    "Original": "FLIGHT CLUP COIN",
+    "Corrected": "FLIGHTCLUPCOIN"
+  },
+  {
+    "Row": 600,
+    "Field": "Name",
+    "Original": "Notable",
+    "Corrected": "Nibble [old]"
+  },
+  {
+    "Row": 601,
+    "Field": "Name",
+    "Original": "Xtreme",
+    "Corrected": "ExtractCoin"
+  },
+  {
+    "Row": 602,
+    "Field": "Name",
+    "Original": "GMPD",
+    "Corrected": "GamesPad"
+  },
+  {
+    "Row": 603,
+    "Field": "Name",
+    "Original": "JIDU Finance",
+    "Corrected": "Jidu Finance"
+  },
+  {
+    "Row": 604,
+    "Field": "Name",
+    "Original": "Martik",
+    "Corrected": "MetaToken"
+  },
+  {
+    "Row": 606,
+    "Field": "Name",
+    "Original": "GemFlow Coin",
+    "Corrected": "GemFlow"
+  },
+  {
+    "Row": 607,
+    "Field": "Name",
+    "Original": "Metamorphosis AI",
+    "Corrected": "Multi AI"
+  },
+  {
+    "Row": 608,
+    "Field": "Name",
+    "Original": "Arab Hyper Loop",
+    "Corrected": "Arab Hyperloop"
+  },
+  {
+    "Row": 610,
+    "Field": "Name",
+    "Original": "NodeFreedToken",
+    "Corrected": "NF Pet"
+  },
+  {
+    "Row": 611,
+    "Field": "Name",
+    "Original": "CrystalPowder",
+    "Corrected": "CoinPark Token"
+  },
+  {
+    "Row": 612,
+    "Field": "Name",
+    "Original": "Kalmar Token",
+    "Corrected": "KALM"
+  },
+  {
+    "Row": 613,
+    "Field": "Name",
+    "Original": "Bitcoin Classic",
+    "Corrected": "BonusCloud"
+  },
+  {
+    "Row": 614,
+    "Field": "Name",
+    "Original": "GoMining Token",
+    "Corrected": "GMT"
+  },
+  {
+    "Row": 618,
+    "Field": "Name",
+    "Original": "BELT Token",
+    "Corrected": "Belt Finance"
+  },
+  {
+    "Row": 621,
+    "Field": "Name",
+    "Original": "Anime",
+    "Corrected": "Anime Token"
+  },
+  {
+    "Row": 622,
+    "Field": "Name",
+    "Original": "col-7 col-lg-8",
+    "Corrected": "BNB"
+  },
+  {
+    "Row": 623,
+    "Field": "Name",
+    "Original": "Abbott Laboratories Tokenized",
+    "Corrected": "Arcblock"
+  },
+  {
+    "Row": 632,
+    "Field": "Name",
+    "Original": "DOGEDIGGER",
+    "Corrected": "Doge Digger"
+  },
+  {
+    "Row": 634,
+    "Field": "Name",
+    "Original": "LFW Token",
+    "Corrected": "Linked Finance World"
+  },
+  {
+    "Row": 636,
+    "Field": "Name",
+    "Original": "SourceLess",
+    "Corrected": "Stater"
+  },
+  {
+    "Row": 637,
+    "Field": "Name",
+    "Original": "Formation Finance",
+    "Corrected": "Formation Fi"
+  },
+  {
+    "Row": 638,
+    "Field": "Name",
+    "Original": "Smart Donation Coin",
+    "Corrected": "ShadowCash"
+  },
+  {
+    "Row": 641,
+    "Field": "Name",
+    "Original": "Unilayer",
+    "Corrected": "Solayer"
+  },
+  {
+    "Row": 642,
+    "Field": "Name",
+    "Original": "Sacred Tails",
+    "Corrected": "Social Trade"
+  },
+  {
+    "Row": 645,
+    "Field": "Name",
+    "Original": "Walt Disney Tokenized",
+    "Corrected": "DisChain"
+  },
+  {
+    "Row": 646,
+    "Field": "Name",
+    "Original": "RICE",
+    "Corrected": "DAOSquare"
+  },
+  {
+    "Row": 647,
+    "Field": "Name",
+    "Original": "PEPE OPTIMUS",
+    "Corrected": "PEPO"
+  },
+  {
+    "Row": 648,
+    "Field": "Name",
+    "Original": "Rematic v3",
+    "Corrected": "Rematic"
+  },
+  {
+    "Row": 649,
+    "Field": "Name",
+    "Original": "Bear",
+    "Corrected": "Beagle Inu"
+  },
+  {
+    "Row": 650,
+    "Field": "Name",
+    "Original": "ESPL ARENA",
+    "Corrected": "The Arena"
+  },
+  {
+    "Row": 651,
+    "Field": "Name",
+    "Original": "Verizon Tokenized Stock",
+    "Corrected": "Vault Zero"
+  },
+  {
+    "Row": 655,
+    "Field": "Name",
+    "Original": "col-7 col-lg-8",
+    "Corrected": "BNB"
+  },
+  {
+    "Row": 658,
+    "Field": "Name",
+    "Original": "BIRD",
+    "Corrected": "Bird.Money"
+  },
+  {
+    "Row": 659,
+    "Field": "Name",
+    "Original": "CHRISTMAS DOGE",
+    "Corrected": "XDoge Network"
+  },
+  {
+    "Row": 663,
+    "Field": "Name",
+    "Original": "NFTC",
+    "Corrected": "NFTCircle"
+  },
+  {
+    "Row": 664,
+    "Field": "Name",
+    "Original": "PEPE WRESTLING TOKEN",
+    "Corrected": "PEPE Wrestling"
+  },
+  {
+    "Row": 668,
+    "Field": "Name",
+    "Original": "WorldMobileToken",
+    "Corrected": "World Mobile Token"
+  },
+  {
+    "Row": 669,
+    "Field": "Name",
+    "Original": "Binance-Peg Filecoin",
+    "Corrected": "Filecoin"
+  },
+  {
+    "Row": 672,
+    "Field": "Name",
+    "Original": "ICLICK INU",
+    "Corrected": "Iclick inu"
+  },
+  {
+    "Row": 675,
+    "Field": "Name",
+    "Original": "TradeWix",
+    "Corrected": "Wixlar"
+  },
+  {
+    "Row": 676,
+    "Field": "Name",
+    "Original": "WIDI",
+    "Corrected": "WidiLand"
+  },
+  {
+    "Row": 677,
+    "Field": "Name",
+    "Original": "MARA",
+    "Corrected": "Amara Finance"
+  },
+  {
+    "Row": 678,
+    "Field": "Name",
+    "Original": "BabyPepe",
+    "Corrected": "BASEDPEPE"
+  },
+  {
+    "Row": 679,
+    "Field": "Name",
+    "Original": "Chihuahua",
+    "Corrected": "Chihuahua Token"
+  },
+  {
+    "Row": 680,
+    "Field": "Name",
+    "Original": "LOGOS",
+    "Corrected": "Woodcoin"
+  },
+  {
+    "Row": 682,
+    "Field": "Name",
+    "Original": "YAY Games",
+    "Corrected": "YAY Network"
+  },
+  {
+    "Row": 685,
+    "Field": "Name",
+    "Original": "Vention",
+    "Corrected": "VNT Chain"
+  },
+  {
+    "Row": 686,
+    "Field": "Name",
+    "Original": "SMART WORLD UNION",
+    "Corrected": "Smart World Union"
+  },
+  {
+    "Row": 687,
+    "Field": "Name",
+    "Original": "Tech Trees Coin",
+    "Corrected": "Tongtongcoin"
+  },
+  {
+    "Row": 688,
+    "Field": "Name",
+    "Original": "InternetComputer",
+    "Corrected": "Internet Computer"
+  },
+  {
+    "Row": 689,
+    "Field": "Name",
+    "Original": "POWER CRYPTO WORLD",
+    "Corrected": "Power Crypto World"
+  },
+  {
+    "Row": 691,
+    "Field": "Name",
+    "Original": "Dingo Token",
+    "Corrected": "Dingocoin"
+  },
+  {
+    "Row": 692,
+    "Field": "Name",
+    "Original": "col-7 col-lg-8",
+    "Corrected": "BNB"
+  },
+  {
+    "Row": 694,
+    "Field": "Name",
+    "Original": "JADE",
+    "Corrected": "Jade Currency"
+  },
+  {
+    "Row": 696,
+    "Field": "Name",
+    "Original": "XcelDefi",
+    "Corrected": "XcelPay"
+  },
+  {
+    "Row": 697,
+    "Field": "Name",
+    "Original": "SafeBLAST",
+    "Corrected": "Blast"
+  },
+  {
+    "Row": 701,
+    "Field": "Name",
+    "Original": "LOL",
+    "Corrected": "LOL coin"
+  },
+  {
+    "Row": 703,
+    "Field": "Name",
+    "Original": "DECA TOKEN",
+    "Corrected": "DecaSwap"
+  },
+  {
+    "Row": 705,
+    "Field": "Name",
+    "Original": "Y8U.AI",
+    "Corrected": "Y8U"
+  },
+  {
+    "Row": 706,
+    "Field": "Name",
+    "Original": "col-7 col-lg-8",
+    "Corrected": "BNB"
+  },
+  {
+    "Row": 708,
+    "Field": "Name",
+    "Original": "Coca-Cola Tokenized Stock",
+    "Corrected": "KO RUNE - Rune.Game"
+  },
+  {
+    "Row": 709,
+    "Field": "Name",
+    "Original": "Glactic Kitty Fighters",
+    "Corrected": "Galatic Kitty Fighters"
+  },
+  {
+    "Row": 713,
+    "Field": "Name",
+    "Original": "Shiba CEO",
+    "Corrected": "ShibCEO"
+  },
+  {
+    "Row": 714,
+    "Field": "Name",
+    "Original": "MinerGate",
+    "Corrected": "Moongate"
+  },
+  {
+    "Row": 717,
+    "Field": "Name",
+    "Original": "Dalarnia",
+    "Corrected": "Digital Asset Rights Token"
+  },
+  {
+    "Row": 718,
+    "Field": "Name",
+    "Original": "Elk",
+    "Corrected": "Elk Finance"
+  },
+  {
+    "Row": 719,
+    "Field": "Name",
+    "Original": "GARY",
+    "Corrected": "Gary"
+  },
+  {
+    "Row": 726,
+    "Field": "Name",
+    "Original": "BlockWRK",
+    "Corrected": "blockWRK"
+  },
+  {
+    "Row": 730,
+    "Field": "Name",
+    "Original": "col-7 col-lg-8",
+    "Corrected": "BNB"
+  },
+  {
+    "Row": 732,
+    "Field": "Name",
+    "Original": "Cosmic Chain",
+    "Corrected": "Cosmic Network"
+  },
+  {
+    "Row": 733,
+    "Field": "Name",
+    "Original": "Milk and Butter",
+    "Corrected": "MineBee"
+  },
+  {
+    "Row": 735,
+    "Field": "Name",
+    "Original": "Bertcoin",
+    "Corrected": "Bertram The Pomeranian"
+  },
+  {
+    "Row": 737,
+    "Field": "Name",
+    "Original": "Argonon Helium",
+    "Corrected": "Argentine Football Association Fan Token"
+  },
+  {
+    "Row": 738,
+    "Field": "Name",
+    "Original": "$0.0015",
+    "Corrected": "Kang3n"
+  },
+  {
+    "Row": 739,
+    "Field": "Name",
+    "Original": "JACKIE",
+    "Corrected": "Jackie Coin"
+  },
+  {
+    "Row": 740,
+    "Field": "Name",
+    "Original": "Godzilla",
+    "Corrected": "Godzilla LaunchPad"
+  },
+  {
+    "Row": 742,
+    "Field": "Name",
+    "Original": "CryptEx Token",
+    "Corrected": "CryptEx"
+  },
+  {
+    "Row": 743,
+    "Field": "Name",
+    "Original": "IOI Token  via ChainPort.io",
+    "Corrected": "IOI Token"
+  },
+  {
+    "Row": 744,
+    "Field": "Name",
+    "Original": "COINMARKETPRIME",
+    "Corrected": "Compcoin"
+  },
+  {
+    "Row": 747,
+    "Field": "Name",
+    "Original": "Upfi",
+    "Corrected": "Upfiring"
+  },
+  {
+    "Row": 751,
+    "Field": "Name",
+    "Original": "MetaPionner Token",
+    "Corrected": "Metapioneers"
+  },
+  {
+    "Row": 752,
+    "Field": "Name",
+    "Original": "Nova Star",
+    "Corrected": "Navis"
+  },
+  {
+    "Row": 754,
+    "Field": "Name",
+    "Original": "donablock",
+    "Corrected": "DogeBonk"
+  },
+  {
+    "Row": 755,
+    "Field": "Name",
+    "Original": "NVIDIA Tokenized",
+    "Corrected": "NVIDIA"
+  },
+  {
+    "Row": 759,
+    "Field": "Name",
+    "Original": "MetaBomb Token",
+    "Corrected": "ETNA Metabolism"
+  },
+  {
+    "Row": 760,
+    "Field": "Name",
+    "Original": "DEGENSWAP",
+    "Corrected": "Degen"
+  },
+  {
+    "Row": 761,
+    "Field": "Name",
+    "Original": "BNBEE",
+    "Corrected": "Bee"
+  },
+  {
+    "Row": 763,
+    "Field": "Name",
+    "Original": "Galaxy",
+    "Corrected": "GETART"
+  },
+  {
+    "Row": 764,
+    "Field": "Name",
+    "Original": "Candela Coin",
+    "Corrected": "ClaimSwap"
+  },
+  {
+    "Row": 765,
+    "Field": "Name",
+    "Original": "Factory Test Token",
+    "Corrected": "FTX Token"
+  },
+  {
+    "Row": 768,
+    "Field": "Name",
+    "Original": "Lion King",
+    "Corrected": "Lion king"
+  },
+  {
+    "Row": 769,
+    "Field": "Name",
+    "Original": "KUMAMON",
+    "Corrected": "Kumamon"
+  },
+  {
+    "Row": 771,
+    "Field": "Name",
+    "Original": "SUN",
+    "Corrected": "Sun [New]"
+  },
+  {
+    "Row": 772,
+    "Field": "Name",
+    "Original": "TOOLS",
+    "Corrected": "BSC TOOLS"
+  },
+  {
+    "Row": 774,
+    "Field": "Name",
+    "Original": "UniCrypt on xDai on BSC",
+    "Corrected": "UNCX Network"
+  },
+  {
+    "Row": 775,
+    "Field": "Name",
+    "Original": "BitMinerX",
+    "Corrected": "BitMart Token"
+  },
+  {
+    "Row": 780,
+    "Field": "Name",
+    "Original": "MonbaseCoin",
+    "Corrected": "Miners.Club"
+  },
+  {
+    "Row": 782,
+    "Field": "Name",
+    "Original": "PolkastarterToken",
+    "Corrected": "Polkastarter"
+  },
+  {
+    "Row": 783,
+    "Field": "Name",
+    "Original": "WorldMobileToken",
+    "Corrected": "World Mobile Token"
+  },
+  {
+    "Row": 785,
+    "Field": "Name",
+    "Original": "PAW PATROL INU",
+    "Corrected": "PAW"
+  },
+  {
+    "Row": 788,
+    "Field": "Name",
+    "Original": "Freebnk",
+    "Corrected": "FreeBnk"
+  },
+  {
+    "Row": 793,
+    "Field": "Name",
+    "Original": "Lorda Token",
+    "Corrected": "Lord Arena"
+  },
+  {
+    "Row": 795,
+    "Field": "Name",
+    "Original": "8PAY Network",
+    "Corrected": "8PAY"
+  },
+  {
+    "Row": 796,
+    "Field": "Name",
+    "Original": "MondayClub Token",
+    "Corrected": "MondayClub"
+  },
+  {
+    "Row": 798,
+    "Field": "Name",
+    "Original": "Fanadise",
+    "Corrected": "Film.io"
+  },
+  {
+    "Row": 800,
+    "Field": "Name",
+    "Original": "Staked BNB",
+    "Corrected": "Ankr Staked BNB"
+  },
+  {
+    "Row": 805,
+    "Field": "Name",
+    "Original": "BattleInfinity",
+    "Corrected": "Battle Infinity"
+  },
+  {
+    "Row": 806,
+    "Field": "Name",
+    "Original": "POLYPAD.com",
+    "Corrected": "PolyPad"
+  },
+  {
+    "Row": 808,
+    "Field": "Name",
+    "Original": "Stepwatch Paradise",
+    "Corrected": "Kava Swap"
+  },
+  {
+    "Row": 814,
+    "Field": "Name",
+    "Original": "srnArtGallery",
+    "Corrected": "srnArt Gallery"
+  },
+  {
+    "Row": 815,
+    "Field": "Name",
+    "Original": "Simpli Finance Token",
+    "Corrected": "Simpli Finance"
+  },
+  {
+    "Row": 817,
+    "Field": "Name",
+    "Original": "Merge",
+    "Corrected": "Merge Pals"
+  },
+  {
+    "Row": 818,
+    "Field": "Name",
+    "Original": "Alibaba Tokenized Stock",
+    "Corrected": "Alibaba tokenized stock FTX"
+  },
+  {
+    "Row": 820,
+    "Field": "Name",
+    "Original": "MooMonster Token",
+    "Corrected": "MooMoo Token"
+  },
+  {
+    "Row": 823,
+    "Field": "Name",
+    "Original": "KOINSWAP",
+    "Corrected": "Karus Starter"
+  },
+  {
+    "Row": 824,
+    "Field": "Name",
+    "Original": "Yemek Nerede Yenir Token",
+    "Corrected": "Crypto Realms War"
+  },
+  {
+    "Row": 826,
+    "Field": "Name",
+    "Original": "BART SIMPSON COIN",
+    "Corrected": "Bart ERC"
+  },
+  {
+    "Row": 828,
+    "Field": "Name",
+    "Original": "Scaryswap Token",
+    "Corrected": "Halloween Crows"
+  },
+  {
+    "Row": 829,
+    "Field": "Name",
+    "Original": "Gami Token",
+    "Corrected": "GAMI World"
+  },
+  {
+    "Row": 830,
+    "Field": "Name",
+    "Original": "Meta Musk",
+    "Corrected": "Metadium"
+  },
+  {
+    "Row": 831,
+    "Field": "Name",
+    "Original": "$$EURCoin",
+    "Corrected": "EURC"
+  },
+  {
+    "Row": 835,
+    "Field": "Name",
+    "Original": "DigitalFinancialExch",
+    "Corrected": "Digital Financial Exchange"
+  },
+  {
+    "Row": 836,
+    "Field": "Name",
+    "Original": "Bridge Token",
+    "Corrected": "Bridge Protocol"
+  },
+  {
+    "Row": 838,
+    "Field": "Name",
+    "Original": "col-7 col-lg-8",
+    "Corrected": "BNB"
+  },
+  {
+    "Row": 839,
+    "Field": "Name",
+    "Original": "Merck Tokenized Stock",
+    "Corrected": "MARK.SPACE"
+  },
+  {
+    "Row": 841,
+    "Field": "Name",
+    "Original": "RUYI",
+    "Corrected": "Ruyi"
+  },
+  {
+    "Row": 843,
+    "Field": "Name",
+    "Original": "CodexToken",
+    "Corrected": "CODEX"
+  },
+  {
+    "Row": 844,
+    "Field": "Name",
+    "Original": "Oggy Grow",
+    "Corrected": "Original Gangsters"
+  },
+  {
+    "Row": 845,
+    "Field": "Name",
+    "Original": "TX Token",
+    "Corrected": "Taxa Token"
+  },
+  {
+    "Row": 849,
+    "Field": "Name",
+    "Original": "Binance-Peg PAX Gold",
+    "Corrected": "PAX Gold"
+  },
+  {
+    "Row": 851,
+    "Field": "Name",
+    "Original": "YOUCOIN TOKEN",
+    "Corrected": "YouCoin"
+  },
+  {
+    "Row": 853,
+    "Field": "Name",
+    "Original": "IRON Stablecoin",
+    "Corrected": "Iron Fish"
+  },
+  {
+    "Row": 854,
+    "Field": "Name",
+    "Original": "HEARN",
+    "Corrected": "Hearn.fi"
+  },
+  {
+    "Row": 855,
+    "Field": "Name",
+    "Original": "$0.0002",
+    "Corrected": "2G CARBON COIN"
+  },
+  {
+    "Row": 856,
+    "Field": "Name",
+    "Original": "SugarYield",
+    "Corrected": "Sugar Boy"
+  },
+  {
+    "Row": 857,
+    "Field": "Name",
+    "Original": "Waves Ducks",
+    "Corrected": "Nestree"
+  },
+  {
+    "Row": 858,
+    "Field": "Name",
+    "Original": "ExaTech",
+    "Corrected": "EXATECH PoAI Blockchain"
+  },
+  {
+    "Row": 861,
+    "Field": "Name",
+    "Original": "Run Together Token",
+    "Corrected": "RUN TOGETHER"
+  },
+  {
+    "Row": 863,
+    "Field": "Name",
+    "Original": "Binance-Peg Elrond Token",
+    "Corrected": "MultiversX"
+  },
+  {
+    "Row": 864,
+    "Field": "Name",
+    "Original": "QuantumVertics Token",
+    "Corrected": "Quish Coin"
+  },
+  {
+    "Row": 865,
+    "Field": "Name",
+    "Original": "Cloud Token",
+    "Corrected": "Cloud"
+  },
+  {
+    "Row": 866,
+    "Field": "Name",
+    "Original": "col-7 col-lg-8",
+    "Corrected": "BNB"
+  },
+  {
+    "Row": 871,
+    "Field": "Name",
+    "Original": "CyberDoge",
+    "Corrected": "CDOGE"
+  },
+  {
+    "Row": 877,
+    "Field": "Name",
+    "Original": "BFK WARZONE",
+    "Corrected": "Baby Fort Knox"
+  },
+  {
+    "Row": 878,
+    "Field": "Name",
+    "Original": "CryptoGPT Token",
+    "Corrected": "QnA3.AI"
+  },
+  {
+    "Row": 879,
+    "Field": "Name",
+    "Original": "SPEXY",
+    "Corrected": "SPX6900"
+  },
+  {
+    "Row": 880,
+    "Field": "Name",
+    "Original": "Gen Shards",
+    "Corrected": "Genesis Shards"
+  },
+  {
+    "Row": 881,
+    "Field": "Name",
+    "Original": "Trexcoin",
+    "Corrected": "Trex Buddha"
+  },
+  {
+    "Row": 883,
+    "Field": "Name",
+    "Original": "AngelSwap",
+    "Corrected": "AdaSwap"
+  },
+  {
+    "Row": 891,
+    "Field": "Name",
+    "Original": "AnchorSwap Token",
+    "Corrected": "AnchorSwap"
+  },
+  {
+    "Row": 893,
+    "Field": "Name",
+    "Original": "1stNFT",
+    "Corrected": "1NFT"
+  },
+  {
+    "Row": 894,
+    "Field": "Name",
+    "Original": "OWL",
+    "Corrected": "OwlDAO"
+  },
+  {
+    "Row": 897,
+    "Field": "Name",
+    "Original": "Game Stop Tokenized",
+    "Corrected": "GameStop (gamestop-coin.vip)"
+  },
+  {
+    "Row": 899,
+    "Field": "Name",
+    "Original": "Byte Ecosystem",
+    "Corrected": "Byte"
+  },
+  {
+    "Row": 900,
+    "Field": "Name",
+    "Original": "Walmart Tokenized",
+    "Corrected": "Wodex Token"
+  },
+  {
+    "Row": 902,
+    "Field": "Name",
+    "Original": "DragonSB",
+    "Corrected": "Solbank"
+  },
+  {
+    "Row": 906,
+    "Field": "Name",
+    "Original": "NFE",
+    "Corrected": "Edu3Labs"
+  },
+  {
+    "Row": 907,
+    "Field": "Name",
+    "Original": "Wells Fargo Tokenized",
+    "Corrected": "Work Force Coin"
+  },
+  {
+    "Row": 908,
+    "Field": "Name",
+    "Original": "Crypto News Flash AI",
+    "Corrected": "CryptoNeur Network foundation"
+  },
+  {
+    "Row": 910,
+    "Field": "Name",
+    "Original": "SAUDI SHIBA INU",
+    "Corrected": "Saudi Shiba Inu"
+  },
+  {
+    "Row": 911,
+    "Field": "Name",
+    "Original": "Pagan Gods FUR Token",
+    "Corrected": "Pagan Gods"
+  },
+  {
+    "Row": 913,
+    "Field": "Name",
+    "Original": "AVC",
+    "Corrected": "Alterverse"
+  },
+  {
+    "Row": 916,
+    "Field": "Name",
+    "Original": "COINOPY",
+    "Corrected": "Coinopy"
+  },
+  {
+    "Row": 917,
+    "Field": "Name",
+    "Original": "SERAPH",
+    "Corrected": "Seraph"
+  },
+  {
+    "Row": 918,
+    "Field": "Name",
+    "Original": "Pepe Elon Ceo",
+    "Corrected": "PEPE ELON CEO"
+  },
+  {
+    "Row": 922,
+    "Field": "Name",
+    "Original": "Afen",
+    "Corrected": "AFEN Blockchain Network"
+  },
+  {
+    "Row": 923,
+    "Field": "Name",
+    "Original": "Rise of Defenders Token",
+    "Corrected": "Rise of Defenders"
+  },
+  {
+    "Row": 924,
+    "Field": "Name",
+    "Original": "POP Coin",
+    "Corrected": "Popcoin"
+  },
+  {
+    "Row": 925,
+    "Field": "Name",
+    "Original": "Era GOT Token",
+    "Corrected": "GoNetwork"
+  },
+  {
+    "Row": 927,
+    "Field": "Name",
+    "Original": "DOGEZILLA",
+    "Corrected": "DogeZilla"
+  },
+  {
+    "Row": 928,
+    "Field": "Name",
+    "Original": "SHOOTER",
+    "Corrected": "Top Down Survival Shooter"
+  },
+  {
+    "Row": 929,
+    "Field": "Name",
+    "Original": "TripCandy",
+    "Corrected": "Candy Pocket"
+  },
+  {
+    "Row": 930,
+    "Field": "Name",
+    "Original": "worldmobiletoken",
+    "Corrected": "Wodex Token"
+  },
+  {
+    "Row": 931,
+    "Field": "Name",
+    "Original": "$0.03",
+    "Corrected": "GEURO"
+  },
+  {
+    "Row": 932,
+    "Field": "Name",
+    "Original": "Hillstone.Finance",
+    "Corrected": "Hillstone Finance"
+  },
+  {
+    "Row": 934,
+    "Field": "Name",
+    "Original": "DeepLink",
+    "Corrected": "Diamond Launch"
+  },
+  {
+    "Row": 939,
+    "Field": "Name",
+    "Original": "STAKE TOKEN",
+    "Corrected": "STAKE"
+  },
+  {
+    "Row": 940,
+    "Field": "Name",
+    "Original": "GreenEnvCoalition",
+    "Corrected": "Gecko Inu"
+  },
+  {
+    "Row": 941,
+    "Field": "Name",
+    "Original": "Kirobo via ChainPort.io",
+    "Corrected": "Kirokugo"
+  },
+  {
+    "Row": 942,
+    "Field": "Name",
+    "Original": "KING KONG",
+    "Corrected": "KongSwap"
+  },
+  {
+    "Row": 943,
+    "Field": "Name",
+    "Original": "GMSOCIOS",
+    "Corrected": "GameStar"
+  },
+  {
+    "Row": 945,
+    "Field": "Name",
+    "Original": "Green Zone",
+    "Corrected": "GameZone"
+  },
+  {
+    "Row": 946,
+    "Field": "Name",
+    "Original": "GameFi",
+    "Corrected": "GameFi.org"
+  },
+  {
+    "Row": 947,
+    "Field": "Name",
+    "Original": "Green Chart",
+    "Corrected": "Greenhouse"
+  },
+  {
+    "Row": 949,
+    "Field": "Name",
+    "Original": "SKYX",
+    "Corrected": "SkyX Token"
+  },
+  {
+    "Row": 953,
+    "Field": "Name",
+    "Original": "CRYPTOHEALTH",
+    "Corrected": "CyberHarbor"
+  },
+  {
+    "Row": 957,
+    "Field": "Name",
+    "Original": "ADD FINANCE",
+    "Corrected": "AdderalCoin"
+  },
+  {
+    "Row": 958,
+    "Field": "Name",
+    "Original": "SCPT - Script Network",
+    "Corrected": "Script Network"
+  },
+  {
+    "Row": 960,
+    "Field": "Name",
+    "Original": "SellToken",
+    "Corrected": "Sell Token"
+  },
+  {
+    "Row": 961,
+    "Field": "Name",
+    "Original": "Metars",
+    "Corrected": "Metars Genesis"
+  },
+  {
+    "Row": 964,
+    "Field": "Name",
+    "Original": "FLOKIAI",
+    "Corrected": "FLOKI AI (OLD)"
+  },
+  {
+    "Row": 967,
+    "Field": "Name",
+    "Original": "EVDC",
+    "Corrected": "EVDC Network"
+  },
+  {
+    "Row": 968,
+    "Field": "Name",
+    "Original": "FLOKI AI",
+    "Corrected": "FLOKI AI (OLD)"
+  },
+  {
+    "Row": 969,
+    "Field": "Name",
+    "Original": "Weentar Token",
+    "Corrected": "Weentar"
+  },
+  {
+    "Row": 970,
+    "Field": "Name",
+    "Original": "Pinhub",
+    "Corrected": "PUBLYTO Token"
+  },
+  {
+    "Row": 971,
+    "Field": "Name",
+    "Original": "DefiConnect",
+    "Corrected": "DeFinder Capital"
+  },
+  {
+    "Row": 972,
+    "Field": "Name",
+    "Original": "LIQR",
+    "Corrected": "Topshelf Finance"
+  },
+  {
+    "Row": 973,
+    "Field": "Name",
+    "Original": "Binance-Peg NEAR Protocol",
+    "Corrected": "NEAR Protocol"
+  },
+  {
+    "Row": 974,
+    "Field": "Name",
+    "Original": "ShibaKen.Finance",
+    "Corrected": "Shibaken Finance"
+  },
+  {
+    "Row": 977,
+    "Field": "Name",
+    "Original": "col-7 col-lg-8",
+    "Corrected": "BNB"
+  },
+  {
+    "Row": 978,
+    "Field": "Name",
+    "Original": "DogeGaySon",
+    "Corrected": "Doge Gay Son"
+  },
+  {
+    "Row": 980,
+    "Field": "Name",
+    "Original": "Quieroganar Audit Academy",
+    "Corrected": "Quieroganar Audits"
+  },
+  {
+    "Row": 981,
+    "Field": "Name",
+    "Original": "ShopNEXT Loyalty Token",
+    "Corrected": "NEXT"
+  },
+  {
+    "Row": 982,
+    "Field": "Name",
+    "Original": "LollyBomb",
+    "Corrected": "Lollybomb Meme Coin"
+  },
+  {
+    "Row": 987,
+    "Field": "Name",
+    "Original": "dotmoovs",
+    "Corrected": "Dotmoovs"
+  },
+  {
+    "Row": 989,
+    "Field": "Name",
+    "Original": "$0.08",
+    "Corrected": "Tenset"
+  },
+  {
+    "Row": 991,
+    "Field": "Name",
+    "Original": "Price Gap Token",
+    "Corrected": "Polyient Games Governance Token"
+  },
+  {
+    "Row": 993,
+    "Field": "Name",
+    "Original": "Binance Beacon ETH",
+    "Corrected": "Beth"
+  },
+  {
+    "Row": 994,
+    "Field": "Name",
+    "Original": "Fabnt token",
+    "Corrected": "FANBI TOKEN"
+  },
+  {
+    "Row": 998,
+    "Field": "Name",
+    "Original": "Crazy Treasure Token",
+    "Corrected": "Castweet"
+  },
+  {
+    "Row": 999,
+    "Field": "Name",
+    "Original": "UniLend Finance Token",
+    "Corrected": "UniLend"
+  },
+  {
+    "Row": 1000,
+    "Field": "Name",
+    "Original": "SpaceY Token",
+    "Corrected": "SpaceY"
+  },
+  {
+    "Row": 1001,
+    "Field": "Name",
+    "Original": "CAPEX COIN",
+    "Corrected": "CPX50"
+  },
+  {
+    "Row": 1002,
+    "Field": "Name",
+    "Original": "Dehero Community Token",
+    "Corrected": "Crypto Heroes"
+  },
+  {
+    "Row": 1003,
+    "Field": "Name",
+    "Original": "Sigma Pepe",
+    "Corrected": "Saiyan PEPE"
+  },
+  {
+    "Row": 1004,
+    "Field": "Name",
+    "Original": "Decentify",
+    "Corrected": "Defi For You"
+  },
+  {
+    "Row": 1005,
+    "Field": "Name",
+    "Original": "Metaracers",
+    "Corrected": "Metars Genesis"
+  },
+  {
+    "Row": 1007,
+    "Field": "Name",
+    "Original": "ZOA",
+    "Corrected": "Zone of Avoidance"
+  },
+  {
+    "Row": 1010,
+    "Field": "Name",
+    "Original": "Australian Shepherd Token",
+    "Corrected": "Australian Safe Shepherd"
+  },
+  {
+    "Row": 1014,
+    "Field": "Name",
+    "Original": "Generative AI",
+    "Corrected": "Generaitiv"
+  },
+  {
+    "Row": 1015,
+    "Field": "Name",
+    "Original": "Bored Coin",
+    "Corrected": "Bread"
+  },
+  {
+    "Row": 1020,
+    "Field": "Name",
+    "Original": "FAME",
+    "Corrected": "Fame MMA"
+  },
+  {
+    "Row": 1022,
+    "Field": "Name",
+    "Original": "HKAPIC",
+    "Corrected": "Helkin"
+  },
+  {
+    "Row": 1023,
+    "Field": "Name",
+    "Original": "MetaSwap",
+    "Corrected": "Matrix SmartChain"
+  },
+  {
+    "Row": 1025,
+    "Field": "Name",
+    "Original": "xWIN Token",
+    "Corrected": "xWIN Finance"
+  },
+  {
+    "Row": 1026,
+    "Field": "Name",
+    "Original": "Moon Nation Game",
+    "Corrected": "Mangocoin"
+  },
+  {
+    "Row": 1027,
+    "Field": "Name",
+    "Original": "MirArc Chain",
+    "Corrected": "My Master War"
+  },
+  {
+    "Row": 1029,
+    "Field": "Name",
+    "Original": "Gold Coin Cat",
+    "Corrected": "GuccioneCoin"
+  },
+  {
+    "Row": 1031,
+    "Field": "Name",
+    "Original": "SCROOGE",
+    "Corrected": "Scrooge"
+  },
+  {
+    "Row": 1035,
+    "Field": "Name",
+    "Original": "Panda Coin",
+    "Corrected": "Panda Swap"
+  },
+  {
+    "Row": 1036,
+    "Field": "Name",
+    "Original": "The HUSL [via ChainPort.io]",
+    "Corrected": "The HUSL"
+  },
+  {
+    "Row": 1039,
+    "Field": "Name",
+    "Original": "Tom coin",
+    "Corrected": "Tom Coin"
+  },
+  {
+    "Row": 1040,
+    "Field": "Name",
+    "Original": "Learning Cash",
+    "Corrected": "Learning Cash [Old]"
+  },
+  {
+    "Row": 1044,
+    "Field": "Name",
+    "Original": "FunCoin",
+    "Corrected": "FUNToken"
+  },
+  {
+    "Row": 1045,
+    "Field": "Name",
+    "Original": "Natiol Infinity",
+    "Corrected": "Nuklai"
+  }
+]
